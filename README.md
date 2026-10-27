@@ -5,7 +5,7 @@
 - 📚 Currently studying CS at <a target="_blank" href="https://www.cesupa.br/graduacao/ciencia-da-computacao">CESUPA</a> in Pará/Brazil<br><br>
 - 🖥️ Focusing today in full-stack projects and data analysis with Java and Python<br><br>
 - 🐧 I like to mess around with tux<br><br>
-- 🎯 Trying to be better every day<br><br>
+- 🎯 Trying to be better every day<br>
 
 ---
 
