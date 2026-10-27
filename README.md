@@ -1,6 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6b728fd8&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6b728fd8&size=33&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+João+Gabriel;I+study+computer+science+at+CESUPA;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm João Gabriel</h1>
 
 ### 👨‍💻 About me
 
@@ -90,11 +88,5 @@ My name is João Gabriel Ferreira do Nascimento, I am 19 year old and currently 
 <br/>
 
 ---
-
-### 📊 Statistics
-
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JG-endOS&bg_color=00000000&color=6b728fd8&line=07e9a5&point=0a855c&area=true&hide_border=true)
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6b728fd8&height=120&section=footer"/>
 
 
