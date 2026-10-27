@@ -14,10 +14,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,py,java,lua,linux,arch,github,git)](https://skillicons.dev)
 
-
-<br/>
-<br/>
-
 ---
 
 
