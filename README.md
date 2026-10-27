@@ -11,9 +11,9 @@
 
 ### 🤖 Languages and Technologies
 
-<p align="center">
-    [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
-</p>
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,py,java,lua,linux,arch,github,git)](https://skillicons.dev)
+
 
 <br/>
 <br/>
