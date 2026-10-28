@@ -12,7 +12,11 @@
 ### 🤖 Languages and Technologies
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,git,github,py,java,lua,linux,arch)](https://skillicons.dev)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,git,github,py,java,lua,linux,arch">
+  <!--[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,git,github,py,java,lua,linux,arch)](https://skillicons.dev)-->
+</div>
+
 
 ---
 
