@@ -13,7 +13,7 @@
 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,git,github,py,java,lua,linux,arch">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,git,github,py,java,cpp,lua,linux,arch">
   <!--[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,git,github,py,java,lua,linux,arch)](https://skillicons.dev)-->
 </div>
 
